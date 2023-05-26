@@ -26,7 +26,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/seedplicity/upptime/master/assets/seedplicity_logo.svg
   name: Seedplicity 🌱 Status
   introTitle: "**Seedplicity** is an innovative app hosting platform"
-  introMessage: We engineer our platform to be as automated and resilient as possible, but life happens! If something's not right, check here first, or the [#announcements](https://discord.com/channels/907016842873278474/973461820427878410) channel in [Discord](https://discord.seedpli.city)!
+  introMessage: We engineer our platform to be as automated and resilient as possible, but life happens! If something's not right, check here first, or the [#status](https://discord.com/channels/907016842873278474/1111612885622325330) channel in [Discord](https://discord.seedpli.city)!
   navbar:
     - title: Status
       href: /
@@ -34,6 +34,8 @@ status-website:
       href: https://wiki.seedpli.city
     - title: Discord
       href: https://discord.seedpli.city
+    - title: My Account
+      href: https://seedpli.city/tenant/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
