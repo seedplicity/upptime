@@ -18,8 +18,8 @@ status-website:
     theme: dark  
   cname: status.seedpli.city
   # baseUrl: /your-repo-name
-  logoUrl: https://seedpli.city/image/logo.svg
-  faviconSvg: https://seedpli.city/image/logo.svg
+  logoUrl: https://raw.githubusercontent.com/seedplicity/upptime/master/assets/seedplicity_logo.svg
+  faviconSvg: https://raw.githubusercontent.com/seedplicity/upptime/master/assets/seedplicity_logo.svg
   name: Is my Seedplicity service up?
   introTitle: "**Seedplicity** is an innovative app hosting platform"
   introMessage: We engineer our platform to be as automated and resilient as possible, but life happens! If something's not right, check here first, or the [#announcements](https://discord.com/channels/907016842873278474/973461820427878410) channel in [Discord](https://discord.seedpli.city)!
