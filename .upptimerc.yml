@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Wiki
     url: https://wiki.seedpli.city
-  - name: Website
+  - name: Billing and account
     url: https://seedpli.city
 
 status-website:
@@ -15,7 +15,8 @@ status-website:
     theme: dark  
   cname: status.seedpli.city
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://seedpli.city/image/logo.svg
+  faviconSvg: https://seedpli.city/image/logo.svg
   name: Seedplicity Status
   introTitle: "**Seedplicity** is an innovative app hosting platform"
   introMessage: We engineer our platform to be as automated and resilient as possible, but life happens! If something's not right, check here first, or the [#announcements](https://discord.com/channels/907016842873278474/973461820427878410) channel in [Discord](https://discord.seedpli.city)!
