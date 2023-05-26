@@ -3,9 +3,9 @@ owner: seedplicity # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wiki
-    url: https://wiki.seedpli.city
-  - name: Website
+  - name: App Hosting Platform
+    url: https://speed.seedpli.city
+  - name: Website / Account Management Platform
     url: https://seedpli.city
     expectedStatusCodes:
       - 200
@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/seedplicity/upptime/master/assets/seedplicity_logo.svg
   faviconSvg: https://raw.githubusercontent.com/seedplicity/upptime/master/assets/seedplicity_logo.svg
-  name: Is my Seedplicity service up?
+  name: Seedplicity 🌱 Status
   introTitle: "**Seedplicity** is an innovative app hosting platform"
   introMessage: We engineer our platform to be as automated and resilient as possible, but life happens! If something's not right, check here first, or the [#announcements](https://discord.com/channels/907016842873278474/973461820427878410) channel in [Discord](https://discord.seedpli.city)!
   navbar:
