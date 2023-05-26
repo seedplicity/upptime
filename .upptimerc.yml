@@ -5,11 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: App Hosting Platform
     url: https://speed.seedpli.city
+    assignees:
+    - funkypenguin
   - name: Website / Account Management Platform
     url: https://seedpli.city
     expectedStatusCodes:
       - 200
       - 403
+    assignees:
+      - seedplicity-admin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
