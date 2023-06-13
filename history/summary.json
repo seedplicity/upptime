@@ -4,18 +4,19 @@
     "url": "https://speed.seedpli.city",
     "icon": "https://icons.duckduckgo.com/ip3/speed.seedpli.city.ico",
     "slug": "app-hosting-platform",
-    "status": "up",
-    "uptime": "98.82%",
+    "status": "down",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 261,
     "timeDay": 308,
     "timeWeek": 271,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-05-27": 135,
       "2023-05-26": 163
     }
