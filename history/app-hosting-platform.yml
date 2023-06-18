@@ -1,7 +1,7 @@
 url: https://speed.seedpli.city
-status: up
-code: 200
-responseTime: 166
-lastUpdated: 2023-06-18T14:48:09.508Z
+status: down
+code: 503
+responseTime: 359
+lastUpdated: 2023-06-18T21:04:07.872Z
 startTime: Fri May 26 2023 11:05:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
